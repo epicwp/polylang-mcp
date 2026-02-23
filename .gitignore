@@ -1,5 +1,4 @@
-# Dependencies are committed so the plugin works without running composer install
-# vendor/
+vendor/
 
 # OS files
 .DS_Store
