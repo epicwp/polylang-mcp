@@ -1,0 +1,15 @@
+{
+    "name": "polylang/polylang-mcp",
+    "description": "MCP server for AI-powered Polylang translations",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": ">=8.0",
+        "wordpress/mcp-adapter": "^0.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "PolylangMCP\\": "src/"
+        }
+    }
+}

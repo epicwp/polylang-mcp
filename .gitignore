@@ -1,0 +1,12 @@
+# Dependencies are committed so the plugin works without running composer install
+# vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
