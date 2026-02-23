@@ -21,11 +21,10 @@ You connect your AI assistant to your WordPress site. The AI can then see all yo
 ## Installation
 
 1. Download or clone this repository into `wp-content/plugins/polylang-mcp/`
-2. Activate the plugin in WP Admin → Plugins
-3. Create an Application Password (see below)
-4. Connect your AI assistant (see below)
-
-No extra plugins or Composer commands needed — everything is bundled.
+2. Run `composer install` in the plugin directory
+3. Activate the plugin in WP Admin → Plugins
+4. Create an Application Password (see below)
+5. Connect your AI assistant (see below)
 
 ## Setup
 
